@@ -6,7 +6,7 @@
     <header class="header">
       <div class="container">
         <nav class="navbar">
-          <a href="#" class="nav-logo">Bank Of Scraps</a>
+          <a href="#" class="nav-logo">Bank Of Sparks</a>
           <ul class="nav-menu">
             <li class="nav-item">
               <a href="customerlist.php" class="nav-link">Go Back</a>
