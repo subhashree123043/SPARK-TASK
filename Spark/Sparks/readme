@@ -1,0 +1,13 @@
+# the-sparks-foundation
+Sparks Foundation Internship Project : Basic Banking System  
+A Web Application used to transfer money between multiple users (Project contains 10 dummy users).
+
+Front-end : HTML, CSS, Bootstrap ,Javascript & Jquery. 
+Back-end : PHP .
+Database : MySQL .   
+
+Database contains two Tables- Customer Table & Transaction Table 
+1. Customer table have basic fields such as name, email,phone number,address & current balance. 
+2. Transaction table records all transfers happened along with their time.  
+
+Flow of the Website: Home Page > View all Customer > Select and View one Customer details> Transfer Money > Select reciever > Send money > View Customer> View All Transactions.
