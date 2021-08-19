@@ -101,7 +101,7 @@ if(isset($_POST['submit']))
     <header class="header">
       <div class="container">
         <nav class="navbar">
-          <a href="#" class="nav-logo">Bank Of Scraps</a>
+          <a href="#" class="nav-logo">Bank Of Sparks</a>
           <ul class="nav-menu">
             <li class="nav-item">
               <?php echo '<a href="cust-details.php?id=' . $id . '" class="nav-link">Go Back</a>' ?>
