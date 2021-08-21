@@ -11,6 +11,8 @@ Database contains two Tables- Customer Table & Transaction Table
 2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Customer > Select and View one Customer details> Transfer Money > Select reciever > Send money > View Customer> View All Transactions.
+
+# The site is hosted on https://subhashreepanda.000webhostapp.com/Spark
                                                                                                                                                        
                                                                                                                                                        
                                                                                                                                                       DESIGNED BY 
